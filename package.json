@@ -24,6 +24,6 @@
     "postversion": "git push --tags && git push origin main && yarn publish ."
   },
   "devDependencies": {
-    "prettier": "2.8.7"
+    "prettier": "2.8.8"
   }
 }
