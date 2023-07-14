@@ -1,11 +1,3 @@
 module.exports = {
-  arrowParens: 'always',
-  bracketSpacing: true,
-  embeddedLanguageFormatting: 'auto',
-  htmlWhitespaceSensitivity: 'css',
   printWidth: 100,
-  semi: false,
-  singleQuote: true,
-  tabWidth: 2,
-  trailingComma: 'all',
-}
+};
