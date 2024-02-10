@@ -1,7 +1,7 @@
 {
   "name": "prettier-config-kwork",
   "description": "Prettier configs for KnowledgeWork's projects.",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "repository": {
     "type": "git",
     "url": "https://github.com/knowledge-work/prettier-config-kwork.git"
